@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 100" role="img" aria-label="ExtraServices"><rect width="300" height="100" rx="4" fill="#fff"/><g transform="translate(11 7) scale(.82)" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"><path d="M28 2 6 24c-5 5-5 13 0 18l9 9c5 5 13 5 18 0l22-22" stroke="#0875aa"/><path d="M31 2 53 24c5 5 5 13 0 18l-9 9c-5 5-13 5-18 0L4 29" stroke="#20252b"/></g><text x="72" y="57" font-family="Arial,Helvetica,sans-serif" font-size="37" font-weight="300" letter-spacing="-1.4" fill="#2b2b2b">Extra</text><text x="155" y="57" font-family="Arial,Helvetica,sans-serif" font-size="37" font-weight="700" letter-spacing="-1.4" fill="#0875aa">Services</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 86" role="img" aria-label="ExtraServices">
+<rect width="300" height="86" fill="#fff"/>
+<!-- crossed ribbon X based on supplied ExtraServices reference -->
+<g transform="translate(8 8)" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M17 2 L39 24 C42 27 42 32 39 35 L32 42 C29 45 24 45 21 42 L2 23 C-1 20 -1 15 2 12 L12 2 C13.5 .5 15.5 .5 17 2 Z" stroke="#0877ad" stroke-width="2.6"/>
+  <path d="M31 2 L9 24 C6 27 6 32 9 35 L16 42 C19 45 24 45 27 42 L46 23 C49 20 49 15 46 12 L36 2 C34.5 .5 32.5 .5 31 2 Z" stroke="#252a30" stroke-width="2.6"/>
+</g>
+<text x="62" y="52" font-family="Arial,Helvetica,sans-serif" font-size="36" font-weight="300" letter-spacing="-1.2" fill="#2b2b2b">Extra</text>
+<text x="143" y="52" font-family="Arial,Helvetica,sans-serif" font-size="36" font-weight="700" letter-spacing="-1.2" fill="#0877ad">Services</text>
+</svg>
